@@ -1,13 +1,19 @@
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+
+
+
+1.                                               # RESUME
+2. ###### Siarhei Birukov
+3. ### Contacts 
+   Mobile number +375292096946; City: Brest, Krishtofivicha street 2/a
+4. ### Summary     
+   I want to start a career in the company EPAM and in 5 years to become a leader, also actively learn java language and improve my English level. I want to become a first-class expert in application development and maybe, in the future, to work remotely from different parts of the globe. I want to get a new experience, I learn quickly, I work well in a team
+5. ### Skills 
+   + JavaScript (React, Node.js)
+   + Java
+   + Photoshop
+   + CorelDraw
+6. Link for my Code's example [https://htmlweb.ru/java/example.php](https://htmlweb.ru/java/example.php)
+7. Experience JS developer 3 years, a year I study JAVA, freelancer about a year.
+8. ### Education 
+   Higher technical education programmer, JS, Java courses, English courses.
+9. English level A2 (infrequent work with foreign customers, conversational English courses, communication with English-speaking people using social networks)/
